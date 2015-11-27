@@ -62,11 +62,23 @@ textarea {
            box-sizing: border-box;
 }
 
+
+body {
+
+background-image: url(../img/p.jpg);
+background-repeat: no-repeat;
+
+}
+
+
+
 p {
 
     font-weight: bold;
     color: green;
 }
+
+
 
 
 
